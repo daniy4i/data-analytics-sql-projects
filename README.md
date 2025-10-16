@@ -24,5 +24,5 @@ Each project demonstrates practical data manipulation, querying, and business in
 - Sustainability and Trend Analytics
 
 ---
-**Author:** Daniyal Kara  
+**Author:** Daniyal Tariq Butt  
 [LinkedIn](https://www.linkedin.com/in/daniyaltb) • [Portfolio](https://daniy4i.github.io)
